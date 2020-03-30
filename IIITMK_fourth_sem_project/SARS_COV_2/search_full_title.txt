@@ -1,0 +1,51 @@
+query: No definition line
+match: gi|1798174254|ref|NC_045512.2| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome >gi|1798172431|gb|MN908947.3| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+match: gi|1819735426|gb|MT121215.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/SH01/human/2020/CHN, complete genome
+match: gi|1805293633|gb|MT019531.1| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-03/2019, complete genome
+match: gi|1820247323|dbj|LC529905.1| Severe acute respiratory syndrome coronavirus 2 TKYE6182_2020 RNA, complete genome
+match: gi|1818244627|gb|MT135044.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/235/human/2020/CHN, complete genome
+match: gi|1818244605|gb|MT135042.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/231/human/2020/CHN, complete genome
+match: gi|1818244594|gb|MT135041.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/105/human/2020/CHN, complete genome
+match: gi|1805293611|gb|MT019529.1| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019, complete genome
+match: gi|1802633808|gb|MN996528.1| Severe acute respiratory syndrome coronavirus 2 isolate WIV04, complete genome
+match: gi|1818244616|gb|MT135043.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/233/human/2020/CHN, complete genome
+match: gi|1808633715|gb|MT049951.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/Yunnan-01/human/2020/CHN, complete genome
+match: gi|1805293644|gb|MT019532.1| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-04/2019, complete genome
+match: gi|1821109024|gb|MT192772.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/nCoV-19-01S/human/2020/VNM, complete genome
+match: gi|1820097838|gb|MT163719.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA7-UW4/human/2020/USA, complete genome
+match: gi|1820097825|gb|MT163718.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA6-UW3/human/2020/USA, complete genome
+match: gi|1819735733|gb|MT159721.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-5/2020, complete genome
+match: gi|1819735711|gb|MT159719.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-3/2020, complete genome
+match: gi|1819735656|gb|MT159714.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-16/2020, complete genome
+match: gi|1819735645|gb|MT159713.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-15/2020, complete genome
+match: gi|1819735623|gb|MT159711.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-13/2020, complete genome
+match: gi|1819735612|gb|MT159710.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-9/2020, complete genome >gi|1820472774|gb|MT184907.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-19/2020, complete genome >gi|1820472796|gb|MT184909.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-22/2020, complete genome
+match: gi|1821109035|gb|MT192773.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/nCoV-19-02S/human/2020/VNM, complete genome
+match: gi|1800455117|gb|MN988668.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV WHU01, complete genome >gi|1800455123|gb|MN988669.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV WHU02, complete genome
+match: gi|1807860439|gb|MT039890.1| Severe acute respiratory syndrome coronavirus 2 isolate SNU01, complete genome
+match: gi|1805293655|gb|MT019533.1| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-05/2020, complete genome
+match: gi|1820472829|gb|MT184912.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-25/2020, complete genome
+match: gi|1819735667|gb|MT159715.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-17/2020, complete genome
+match: gi|1819735567|gb|MT159709.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-12/2020, complete genome
+match: gi|1819735506|gb|MT159708.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-11/2020, complete genome
+match: gi|1819735484|gb|MT159707.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-10/2020, complete genome
+match: gi|1819735473|gb|MT159706.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-8/2020, complete genome
+match: gi|1812779165|gb|MT118835.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA9/2020, complete genome
+match: gi|1812103009|gb|MT106053.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA8/2020, complete genome
+match: gi|1800242661|gb|MN975262.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV_HKU-SZ-005b_2020, complete genome
+match: gi|1802471970|gb|MN994468.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA2/2020, complete genome
+match: gi|1820097812|gb|MT163717.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA4-UW2/human/2020/USA, complete genome
+match: gi|1819735744|gb|MT159722.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-6/2020, complete genome
+match: gi|1819735700|gb|MT159718.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-2/2020, complete genome
+match: gi|1819735689|gb|MT159717.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-1/2020, complete genome
+match: gi|1806553209|gb|MT027064.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA5/2020, complete genome
+match: gi|1819735722|gb|MT159720.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-4/2020, complete genome
+match: gi|1819735634|gb|MT159712.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-14/2020, complete genome
+match: gi|1819735443|gb|MT159705.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CruiseA-7/2020, complete genome
+match: gi|1815410662|gb|MT123290.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/IQTC01/human/2020/CHN, complete genome
+match: gi|1806553187|gb|MT027062.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA3/2020, complete genome >gi|1806553198|gb|MT027063.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA4/2020, complete genome
+match: gi|1800408777|gb|MN985325.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-WA1/2020, complete genome >gi|1805599854|gb|MT020880.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-WA1-A12/2020, complete genome >gi|1805599865|gb|MT020881.1| Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-WA1-F6/2020, complete genome
+match: gi|1805293622|gb|MT019530.1| Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-02/2019, complete genome
+match: gi|1803016604|gb|MT007544.1| Severe acute respiratory syndrome coronavirus 2 isolate Australia/VIC01/2020, complete genome
+match: gi|1820518900|gb|MT123291.2| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/IQTC02/human/2020/CHN, complete genome
+match: gi|1820097799|gb|MT163716.1| Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WA3-UW1/human/2020/USA, complete genome

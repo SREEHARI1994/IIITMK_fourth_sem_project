@@ -1,0 +1,74 @@
+LOCUS       AF250365                1410 bp    mRNA    linear   VRL 09-MAR-2001
+DEFINITION  Influenza A virus (A/Weiss/43 (H1N1)) neuraminidase (NA) gene,
+            complete cds.
+ACCESSION   AF250365
+VERSION     AF250365.2
+KEYWORDS    .
+SOURCE      Influenza A virus (A/Weiss/1943(H1N1))
+  ORGANISM  Influenza A virus (A/Weiss/1943(H1N1))
+            Viruses; Riboviria; Negarnaviricota; Polyploviricotina;
+            Insthoviricetes; Articulavirales; Orthomyxoviridae;
+            Alphainfluenzavirus.
+REFERENCE   1  (bases 1 to 1410)
+  AUTHORS   Reid,A.H., Fanning,T.G., Janczewski,T.A. and Taubenberger,J.K.
+  TITLE     Characterization of the 1918 'Spanish' influenza virus
+            neuraminidase gene
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 97 (12), 6785-6790 (2000)
+   PUBMED   10823895
+REFERENCE   2  (bases 1 to 1410)
+  AUTHORS   Reid,A.H., Fanning,T.G., Janczewski,T.A. and Taubenberger,J.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAR-2000) Division of Molecular Pathology, Department
+            of Cellular Pathology, Armed Forces Institute of Pathology, 14th
+            Street and Alaska Avenue, N.W., Washington, DC 20306-6000, USA
+COMMENT     On Mar 9, 2001 this sequence version replaced AF250365.1.
+FEATURES             Location/Qualifiers
+     source          1..1410
+                     /organism="Influenza A virus (A/Weiss/1943(H1N1))"
+                     /mol_type="mRNA"
+                     /strain="A/Weiss/43 (H1N1); ATCC VR-96"
+                     /db_xref="ATCC:VR-96"
+                     /db_xref="taxon:191090"
+     gene            1..1410
+                     /gene="NA"
+     CDS             1..1410
+                     /gene="NA"
+                     /codon_start=1
+                     /product="neuraminidase"
+                     /protein_id="AAF77045.1"
+                     /translation="MNPNQKIITIGSICMVVGIISLILQIGNIISIWISHSIQTGSQN
+                     HTGICNQSIITYKNSTWVNQTYVNISNTNVVAGKGTTSVILAGNSSLCPIRGWAIYSK
+                     DNGIRIGSKGDVFVIREPFISCSHLECRTFFLTQGALLNDKHSNGTVKDRSPYRALMS
+                     CPVGEAPSPYNSRFESVAWSASACHDGMGWLTIGISGPDDEAVAVLKYNGIITETIKS
+                     WRKKILRTQESECVCVNGSCFTIMTDGPSDGQASYKIFKIEKGKVTKSIELDAPNSHY
+                     EECSCYPDTGKVMCVCRDNWHGSNRPWVSFDQNLDYQIGYICSGVFGDNPRSKDGKGS
+                     CGPVYVDGANGVKGFSYRYGNGVWIGRTKSDSSRQGFEMIWDPNGWTETDSNFFVKQD
+                     IVAMTDWSGYSGSFVQHPELTGLDCMRPCFWVELIRGRPKEKTIWTSGSSISFCGVNS
+                     DTVDWSWPDGAELPFTIDK"
+ORIGIN      
+        1 atgaatccaa atcagaaaat aataaccatt ggatcaatct gtatggtagt cggaataatt
+       61 agcctaatat tgcaaatagg gaatattatc tcaatatgga ttagccattc aattcaaact
+      121 ggaagtcaaa accatactgg aatatgcaac caaagcatca ttacctataa aaatagcacc
+      181 tgggtaaatc aaacatatgt taatattagc aacactaacg ttgttgctgg aaaaggcaca
+      241 acttcagtga tattagccgg caattcatct ctttgtccta tccgtgggtg ggctatatac
+      301 agcaaagata acggcataag aattggttcc aaaggagatg tttttgtcat aagagagcct
+      361 tttatttcat gttctcactt ggaatgcagg actttttttc tgacccaagg cgccctgttg
+      421 aatgacaagc attcaaatgg gaccgttaag gacagaagcc cttatagggc cttgatgagc
+      481 tgccctgtcg gtgaagctcc gtccccgtac aattcaaggt ttgaatcggt tgcttggtca
+      541 gcaagtgcat gtcatgatgg catgggctgg ctaacaatcg gaatttctgg tccagatgat
+      601 gaagcagtgg ctgtgttaaa atacaacggc ataataactg aaaccataaa aagttggagg
+      661 aagaaaatat tgagaacaca agagtctgaa tgtgtctgtg taaatggttc atgttttact
+      721 ataatgaccg acggcccgag tgatggccag gcctcgtaca aaattttcaa gatcgagaag
+      781 gggaaggtta ctaaatcaat agagttggat gcacctaatt ctcactacga ggaatgttcc
+      841 tgttaccctg ataccggcaa ggtgatgtgt gtgtgcagag acaattggca cggttcgaac
+      901 cgaccatggg tgtctttcga tcaaaatctg gattatcaaa taggatacat ctgcagtggg
+      961 gttttcggtg acaatccgcg ttccaaagat ggaaaaggca gctgtggtcc ggtgtatgtt
+     1021 gatggagcaa acggagtaaa gggattttca tacaggtatg gtaatggtgt ttggatagga
+     1081 aggactaaaa gtgacagttc cagacagggg tttgagatga tttgggatcc taatgggtgg
+     1141 acagagactg atagtaattt ctttgtgaaa caagatatag tggctatgac tgattggtca
+     1201 gggtacagcg gaagtttcgt tcaacatcct gagctaacag ggctggactg tatgaggcct
+     1261 tgcttctggg ttgaattaat caggggacga cctaaagaaa aaacaatctg gactagtggg
+     1321 agcagcattt ctttttgtgg cgtgaatagt gatactgtag actggtcttg gccagacggt
+     1381 gccgaattgc cattcaccat tgacaagtag
+//
+
